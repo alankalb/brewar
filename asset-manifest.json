@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/brewar/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/brewar/static/js/main.b26ba00c.chunk.js",
+    "main.js.map": "/brewar/static/js/main.b26ba00c.chunk.js.map",
+    "runtime-main.js": "/brewar/static/js/runtime-main.dabd72a5.js",
+    "runtime-main.js.map": "/brewar/static/js/runtime-main.dabd72a5.js.map",
+    "static/js/2.581a1c1b.chunk.js": "/brewar/static/js/2.581a1c1b.chunk.js",
+    "static/js/2.581a1c1b.chunk.js.map": "/brewar/static/js/2.581a1c1b.chunk.js.map",
+    "static/js/3.ca945af2.chunk.js": "/brewar/static/js/3.ca945af2.chunk.js",
+    "static/js/3.ca945af2.chunk.js.map": "/brewar/static/js/3.ca945af2.chunk.js.map",
+    "index.html": "/brewar/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/brewar/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.581a1c1b.chunk.js.LICENSE.txt": "/brewar/static/js/2.581a1c1b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/brewar/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dabd72a5.js",
+    "static/js/2.581a1c1b.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.b26ba00c.chunk.js"
+  ]
+}
