@@ -1,5 +1,6 @@
 {
   "name": "brewar",
+  "homepage": "http://alankalb.github.io/brewar",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
